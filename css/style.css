@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+.abuga{
+
+   display: flex;
+   align-items: center;
+justify-content: space-evenly;
+
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}
+footer p{
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+
